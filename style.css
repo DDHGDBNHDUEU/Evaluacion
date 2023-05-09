@@ -1,2 +1,11 @@
-
-
+.container{
+   display: flex;
+   
+}
+.barra{
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+   border: 4px black solid;
+   width: max-content;
+}

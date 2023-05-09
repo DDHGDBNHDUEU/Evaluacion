@@ -5,7 +5,7 @@ const port = 2500
 const password = 'mayra2007';
 const uri ='mongodb+srv://May: ${password} @tarea.ukuqqcc.mongodb.net/?retryWrites=true&w=majority';
 
-const electrodomesticos = {
+let electrodomesticos = {
 
   "televisor": {
     "origen": "China",
